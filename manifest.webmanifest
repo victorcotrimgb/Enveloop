@@ -1,1 +1,15 @@
-{"name":"Enveloop","short_name":"Enveloop","start_url":"./index.html","display":"standalone","background_color":"#06162e","theme_color":"#0b2348","description":"Orçamento pessoal por grupos, categorias e subcategorias.","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Enveloop",
+  "short_name": "Enveloop",
+  "description": "Planejamento financeiro por orçamento, categorias e compromissos futuros.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
